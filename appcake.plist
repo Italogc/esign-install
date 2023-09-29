@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.iphonecake.appcakej</string>
+				<string>xyz.yyyue.esign</string>
 				<key>bundle-version</key>
-				<string>7.1.3</string>
+				<string>4.8.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>AppCake</string>
+				<string>Esign</string>
 			</dict>
 		</dict>
 	</array>
