@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://download1474.mediafire.com/he7vrki2q5og6ydorhFobXToUWF8hgMD5mPdaBud3ZI6Y4SAw3ug7YZodRQX_SCtDboCycVlyzjHHvBxm_xwlOnZ8Y7BLRCpt4OEArXTZk2RPpr--eunWDynf8othVefb7XhUd9qFOxX_hLihcqOWqUCdnJz9ezoruoRW2pvWNAQ/xq863tm59is6z48/X+Twitter_20.21.2_iOS10-iTalogc.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://avatars.githubusercontent.com/u/13787422?s=400&u=329caa6d62499db7ea7307f4498b186b6b1ed28b&v=4</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://avatars.githubusercontent.com/u/13787422?s=400&u=329caa6d62499db7ea7307f4498b186b6b1ed28b&v=4</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.atebits.Tweetie2</string>
+				<key>bundle-version</key>
+				<string>10.21.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>X Twitter</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
