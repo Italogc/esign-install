@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string><![CDATA[https://ipa7all.osslan.com:447/03130700160571599bb/2024/01/28/4b94c31c5a6f62687d059b19b4cd243d.ipa?st=rPZlaQ5JaG_ZfpH3W1bX3w&e=1710287585&b=ATYPfFM6B2UCOVdeVzIBK1M2DH5RYlMKVHIIawB0UDsJPFs1VzJTMgB7UW4LKw5r&fi=160571599&pid=101-42-247-28&up=2&mp=0&co=0]]></string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+					<string>ci.nn.esign_5.0.2_unsigned</string>
+					<key>bundle-version</key>
+                    <string>4.4</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>esign_5.0.2_unsigned</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
