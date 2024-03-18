@@ -17,19 +17,19 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://esign.yyyue.xyz/ESignLogo200.png</string>
+					<string>https://raw.githubusercontent.com/Italogc/esign-install/main/IMG_1265.webp</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://esign.yyyue.xyz/EsignLogo200.png</string>
+					<string>https://raw.githubusercontent.com/Italogc/esign-install/main/IMG_1265.webp</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>p3.xyz.yyyue.esign</string>
+				<string>p3.xyz.yyyue.stradale</string>
 				<key>bundle-version</key>
 				<string>1.19</string>
 				<key>kind</key>
